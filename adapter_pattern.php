@@ -5,6 +5,8 @@
 #       PHP OOP - ADAPTER DESIGN PATTERN    #
 #=============================================
 
+# Refs - https: //medium.com/@shipu/the-adapter-design-42781fec23fc
+
 interface SocialInterface
 {
     public function getFriends();
